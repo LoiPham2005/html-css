@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+
+body{
+    justify-content: center;
+    display: flex;
+}
+.contener{
+    width: 982px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 98px;
+    background-color: #272f54;
+    margin-bottom: 3px;
+}
+.logo img{
+    width: 75px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 35px;
+    background-color: #ad4601;
+    margin-bottom: 5px;
+}
+
+.menu ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu ul li{
+    margin-right: 35px;
+}
+
+.menu ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.baner{
+    margin-bottom: 3px;
+}
+
+.baner img{
+    width: 100%;
+    height: 263px;
+}
+
+.sotform{
+    width: 100%;
+    height: 38px;
+    background-color: #ad4601;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.sotform input{
+    width: 496px;
+    height: 20px;
+}
+
+.sotform button{
+    width: 77px;
+    height: 20px;
+}
+
+.conten1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.con{
+    width: 485px;
+    height: 385px;
+    border: 1px solid #a45931;
+}
+
+.con img{
+    margin-top: 32px;
+    width: 422px;
+    height: 240px;
+    margin-left: 30px;
+    margin-bottom: 35px;
+}
+
+.con h3{
+    color: #a45931;
+    font-size: 20px;
+    margin-left: 25px;
+    letter-spacing: 1.5px;
+}
+
+.conten2{
+    width: 100%;
+    height: 320px;
+    border: 1px solid #a45931;    
+    display: flex;
+}
+
+.conten2 img{
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.con2{
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+.con2 h3{
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    color: #a45931;
+    margin-bottom: 10px;
+}
+
+.con2{
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+footer{
+    width: 100%;
+    height: 40px;
+    background-color: #272f54;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+}
