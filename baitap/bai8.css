@@ -105,6 +105,7 @@ ul>li>a:hover{
     font-size: 12px;
     /* word-spacing: 1px; */
     letter-spacing: 0.1px;
+    
    
 }
 footer{
@@ -118,4 +119,6 @@ footer{
 footer>b{
     color: white;
     font-size: 10px;
+    word-spacing: 2px;
+    letter-spacing: 10px;
 }

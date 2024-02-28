@@ -53,6 +53,8 @@ nav>.nav1>ul {
 }
 ul>li {
     padding: 1px 14px;
+    display: flex;
+    align-items: center;
 }
 
 ul>li:hover {
@@ -60,6 +62,7 @@ ul>li:hover {
 }
 .nav2{
     display: flex;
+    align-items: center;
 }
 input {
     height: 10px;
